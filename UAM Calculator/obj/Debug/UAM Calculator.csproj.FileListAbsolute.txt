@@ -1,0 +1,10 @@
+E:\Programming\UAM Calculator\UAM Calculator\bin\Debug\UAM Calculator.exe.config
+E:\Programming\UAM Calculator\UAM Calculator\bin\Debug\UAM Calculator.exe
+E:\Programming\UAM Calculator\UAM Calculator\bin\Debug\UAM Calculator.pdb
+E:\Programming\UAM Calculator\UAM Calculator\obj\Debug\UAM Calculator.csprojAssemblyReference.cache
+E:\Programming\UAM Calculator\UAM Calculator\obj\Debug\UAM_Calculator.HomeScreen.resources
+E:\Programming\UAM Calculator\UAM Calculator\obj\Debug\UAM_Calculator.Properties.Resources.resources
+E:\Programming\UAM Calculator\UAM Calculator\obj\Debug\UAM Calculator.csproj.GenerateResource.cache
+E:\Programming\UAM Calculator\UAM Calculator\obj\Debug\UAM Calculator.exe
+E:\Programming\UAM Calculator\UAM Calculator\obj\Debug\UAM Calculator.pdb
+E:\Programming\UAM Calculator\UAM Calculator\obj\Debug\UAM_Calculator.Calculator.resources
